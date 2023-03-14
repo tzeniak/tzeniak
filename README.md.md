@@ -14,11 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Introduction to Tzenia$
-##Data Analyst - UOA##
-I am currently participating in the Data Analyst program delivered by University of Athens, because:
-*I am interested in pursuing a career in the Data Analysis field
-*I was always interested in calculations and interpretation of numeric results,and
-*I love technology!
 
-Thank you!
